@@ -1,0 +1,49 @@
+* {
+    background-color: lightblue;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+h1 {
+    font-size: 34px;
+    font-weight: bold;
+    color: blue;
+}
+
+ul {
+    list-style-type: none;
+}
+
+a {
+    color: darkgreen;
+    font-size: 20px;
+    text-align: left;
+}
+
+img {
+    width: 400px;
+    height: auto;
+}
+
+.ingridients li {
+    color: tomato;
+    font-size: 28px;
+    text-align: center;
+}
+
+.steps li {
+    color: purple;
+    font-size: 20px;
+    text-align: left;
+    font-weight: bold;
+}
+
+h3 {
+    font-weight: bold;
+    color: yellow;
+}
+
+p {
+    text-align: center;
+}
+
+
